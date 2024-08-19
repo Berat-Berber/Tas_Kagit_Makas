@@ -15,5 +15,7 @@
 
 <h2>Kurallar</h2>
 - Bir Oyunda Kimin Tur Sonu Skoru Önce 2'ye Ulaşırsa Oyunu Kazanır.
+
 - Kimin Genel Skoru Önce 2'ye Ulaşırsa Oyunu Kazanır.
+  
 - İstediğiniz Zaman Sonlandırabilir Veya Tamamen Oyundan Çıkabilirsiniz.
