@@ -49,7 +49,7 @@ Bilgilendirme Bu Kadardı İyi Şanslar!"""
 #Katman 2: Genel oyunu temsil eden while döngüsü -> Seansları içine alır.
 
 #Katman 1: Programı temsil eden while döngüsü -> Bu döngü Genel Oyunları içine alir.
-# Eger kullanıci genel skorları sıfırlamak isterse programı açip kapatmasına gerek kalmaz.
+#Eger kullanıci genel skorları sıfırlamak isterse programı açip kapatmasına gerek kalmaz.
 
     while True:
         #Oyuna baslamak icin onay aliniyor.
