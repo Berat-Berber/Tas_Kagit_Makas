@@ -187,9 +187,13 @@ Bilgisayar: {bil_genel_skor}""")
             if kullanici_genel_skor == 2:
                 
                 print("Oyunu Siz Kazandınız!")
+                seans_sayac = 0
+                tur_sayac = 0
                 break
             elif bil_genel_skor == 2:
                 print("Oyunu Bilgisayar Kazandı!")
+                seans_sayac = 0
+                tur_sayac = 0
                 break
 
 
