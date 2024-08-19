@@ -12,3 +12,5 @@
 
 - Katman 1: Programı temsil eden while döngüsü -> Bu döngü Genel Oyunları içine alir.
 - Eger kullanıcı genel skorları sıfırlamak isterse programı açıp kapatmasına gerek kalmaz.
+
+<h2>Kurallar</h2>
