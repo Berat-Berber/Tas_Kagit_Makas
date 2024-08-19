@@ -67,10 +67,10 @@ Bilgilendirme Bu Kadardı İyi Şanslar!"""
         print("Madem oynamayacaktin oyuna neden girdin kardeşim? Neyse görüşürüz.")
         sys.exit()
 
-
+    #1. katman while dongusu
     while True:
 
-        #1. katman while dongusu
+        
 
         #Genel oyun icin belirlenen skorlar.
         kullanici_genel_skor = 0
