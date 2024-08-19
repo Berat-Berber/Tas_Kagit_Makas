@@ -15,7 +15,7 @@
 
 <h2>Kurallar</h2>
 
-- Bir Oyunda Kimin Tur Sonu Skoru Önce 2'ye Ulaşırsa Oyunu Kazanır.
+- Bir Oyunda Kimin Seans Sonu Skoru Önce 2'ye Ulaşırsa Oyunu Kazanır ve Genel Skoruna 1 Eklenir.
 
 - Kimin Genel Skoru Önce 2'ye Ulaşırsa Oyunu Kazanır.
   
