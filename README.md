@@ -1,4 +1,4 @@
-# Taş Kağıt Makas Oyunu
+# Taş Kağıt Makas Oyunu Projesi
 
 <h1>Bu Proje "Aygaz Python Bootcamp: Yeni Nesil Proje Kampı" için bitirme projesidir.</h1>
 
