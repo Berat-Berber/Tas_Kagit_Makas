@@ -42,13 +42,14 @@ Bilgilendirme Bu Kadardı İyi Şanslar!"""
 #Kod tasarimi ve while dongulerinin kullanimi:
 #Kullanicidan input almak icin kullanilan try-except ve while donguleri haricince 3 ana while dongusu var:
 
-#3. katman: turları temsil eden while dongusu -> kullanici veya bilgisayarin tur sonu skoru 2 olana kadar devam ediyor
+#Kullanıcıdan girdi almak için kullanilan try-except ve while döngüleri haricince 3 ana while döngüsü var:
 
-#2. katman: seansları temsil eden while dongusu -> Bilgisayarin ve kullanicinin genel skorlari burada.
-#Turlari temsil eden while'dan cikilinca kim daha yüksekse onun genel skoruna 1 ekleniyor
+#Katman 3: 1 Seansı temsil eden while döngüsü -> kullanıcı veya bilgisayarin seans skoru 2 olana kadar devam eder.
 
-#1. katman: genel oyunu temsil eden while donugusu -> Bu dongu seanslari icine alir.
-#Eger kullanici genel skorları sifirlamak isterse programi acip kapatmasina gerek kalmaz.
+#Katman 2: Genel oyunu temsil eden while döngüsü -> Seansları içine alır.
+
+#Katman 1: Programı temsil eden while döngüsü -> Bu döngü Genel Oyunları içine alir.
+# Eger kullanıci genel skorları sıfırlamak isterse programı açip kapatmasına gerek kalmaz.
 
     while True:
         #Oyuna baslamak icin onay aliniyor.
@@ -70,7 +71,6 @@ Bilgilendirme Bu Kadardı İyi Şanslar!"""
     #1. katman while dongusu
     while True:
 
-        
 
         #Genel oyun icin belirlenen skorlar.
         kullanici_genel_skor = 0
